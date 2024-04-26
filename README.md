@@ -25,4 +25,7 @@ $O\left(n\right)$
 
 https://www.geeksforgeeks.org/iterative-quick-sort/
 https://www.geeksforgeeks.org/when-does-the-worst-case-of-quicksort-occur/
+
 quicksort-IshitaPatel18
+quicksort-SamuelGlz-1
+
